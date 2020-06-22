@@ -221,4 +221,4 @@ Test para conocer si la función de nuestra aplicación está bien y cumple con 
 
 **Testeo, Prototipo 6** [link](https://xd.adobe.com/view/ca786d38-6ead-4626-43c5-c77634266e12-bc49/?fullscreen&hints=off)
 
-**Link para utilizar app Je´taime abre y sigue las instrucciones** [link]()
+**Link para utilizar app Je´taime abre y sigue las instrucciones** [link](https://namastheyssoledasbaspe.github.io/SCL014-cipher/)
